@@ -1,6 +1,0 @@
-server:
-  port: 8083
-
-mindmap:
-  service:
-    url: http://localhost:8082/mindmaps
